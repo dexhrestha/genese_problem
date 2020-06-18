@@ -1,0 +1,12 @@
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder. 
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
+
+If a number is divisible by x and y, then the number is also divisible by lcm of x and y
+
+lcm of x and y = product of x and y / gcd of x ad y
+
+To get the required number we can find lcm of every number from 1 to 20. Since, we know 2520 is number divisble by all number from 1 to 10
+and the required number is also divisible by all number from 1 to 10, the required number is divisible by 2520. So we can get the required number
+by finding lm of every number from 10 to 20 rather than start from 1.
+
+
